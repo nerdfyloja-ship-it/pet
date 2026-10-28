@@ -1,0 +1,6 @@
+{
+  "name": "Painel Mastter Pet",
+  "description": "Painel comercial protegido por senha para representantes acompanharem positivação e tonelada integrados ao Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
